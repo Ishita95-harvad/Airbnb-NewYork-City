@@ -1,2 +1,1 @@
-1. Airbnb-SanDiego
-2 Airbnb
+**1. Airbnb**
