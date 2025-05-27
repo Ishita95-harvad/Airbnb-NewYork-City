@@ -19,24 +19,24 @@ This dataset provides insights into **Airbnb listings in New York City**, offeri
 ## 📁 Repository Structure
 
 
-📂 Airbnb-NewYork-City 
+###  📂 Airbnb-NewYork-City 
 
 │── 📄 README.md          
-# Project documentation
+### Project documentation
 │── 📂 data/                 
-# Raw & processed Airbnb listing datasets
+### Raw & processed Airbnb listing datasets
 │── 📂 analysis/           
-# Reports on rental trends, pricing, and occupancy
+### Reports on rental trends, pricing, and occupancy
 │── 📂 models/            
-# Predictive models for pricing optimization 
+### Predictive models for pricing optimization 
 │── 📂 results/         
-# Visualizations & insights into host behaviors
+### Visualizations & insights into host behaviors
 │── 📂 config/           
-# Configuration files & metadata
+### Configuration files & metadata
 │── 📄 requirements.txt  
-# Dependencies for analysis tools
+### Dependencies for analysis tools
 │── 📄 LICENSE      
-# Legal information about dataset usage
+### Legal information about dataset usage
 
 ## 🔍 Dataset Description
 The dataset includes:
@@ -67,10 +67,10 @@ The dataset includes:
 pip install -r requirements.txt
 - Load the dataset and explore trends using Python, Pandas, and visualization tools.
   
-**📜 License**
+## **📜 License**
 
 This dataset is intended for educational, research, and business intelligence purposes.
 
-**🙌 Acknowledgments**
+## **🙌 Acknowledgments**
 
 Special thanks to Airbnb open data sources, urban researchers, and data scientists for contributing valuable insights.
